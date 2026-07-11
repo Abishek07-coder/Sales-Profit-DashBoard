@@ -41,7 +41,7 @@ This project was developed to strengthen my Excel and data analysis skills by tr
 
 ## Dashboard Preview
 
-C:\Users\Abishek B\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 212702.png
+<img width="1450" height="760" alt="Screenshot 2026-07-11 212702" src="https://github.com/user-attachments/assets/53970649-e975-4596-8516-88df6062128c" />
 
 ## Author
 
