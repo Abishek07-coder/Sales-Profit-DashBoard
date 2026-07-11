@@ -39,6 +39,10 @@ This project was developed to strengthen my Excel and data analysis skills by tr
 
 - <a href="https://github.com/Abishek07-coder/Sales-Profit-DashBoard/blob/main/Sales%20and%20Profit%20Dashboard%20Data.xlsx">DataSet</a>
 
+## Dashboard Preview
+
+
+
 ## Author
 
 **Abishek**
