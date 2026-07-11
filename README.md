@@ -41,7 +41,7 @@ This project was developed to strengthen my Excel and data analysis skills by tr
 
 ## Dashboard Preview
 
-https://github.com/Abishek07-coder/Sales-Profit-DashBoard/blob/main/Screenshot%202026-07-11%20212702.png
+C:\Users\Abishek B\OneDrive\Pictures\Screenshots\Screenshot 2026-07-11 212702.png
 
 ## Author
 
